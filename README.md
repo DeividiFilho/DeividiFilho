@@ -12,7 +12,7 @@
 <div>
   
 ## About me:
-I live in São Carlos - SP - Brazil and I'm 20 years old.
+I live in São Carlos - SP - Brazil and I'm 21 years old.
   
 I'm studying Systems Analysis and Development at IFSP.
 I dont have professional experience in the area and I am looking for my first job.
